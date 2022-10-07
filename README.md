@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Muziki Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<table>
+<tr>
+<td>
+  Muziki Player is a Music application that ensure users get entertained through provision of quality and wide variety of music playlist just for you.
+</td>
+</tr>
+</table>
 
-## Available Scripts
-
-In the project directory, you can run:
+## Demo
+Here is a working live demo :  file:///home/coder/Videos/Screencast%20from%2007-10-2022%20%201:19:42%20WB.webm
 
 ### `npm start`
 
