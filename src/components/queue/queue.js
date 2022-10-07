@@ -1,5 +1,5 @@
-import React from 'react'
-import './queue.css'
+import React from 'react';
+import './queue.css';
 
 const Queue = ({tracks, setCurrentIndex}) => {
     console.log(tracks)
