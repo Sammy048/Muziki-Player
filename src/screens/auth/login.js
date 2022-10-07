@@ -8,6 +8,7 @@ const Login = () => {
     <div className='login-page'>
         <img src={MyImage} alt='logo-spotify' className='logo' />
         <a href={loginEndpoint}><div className='login-btn'>LOG IN</div></a>
+          
     </div>
   )
 }
