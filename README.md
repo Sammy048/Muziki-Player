@@ -8,8 +8,19 @@
 </tr>
 </table>
 
-## Demo
-Here is a working live demo :  file:///home/coder/Videos/Screencast%20from%2007-10-2022%20%201:19:42%20WB.webm
+## Table
+
+## Site
+
+### landing Page (Authentication)
+Here is the landing page : ![](https://github.com/Sammy048/Muziki-Player/blob/main/src/images/Screenshot%20from%202022-10-07%2013-30-52.png) 
+
+### Verification Page
+Redirects you to the application : ![](https://github.com/Sammy048/Muziki-Player/blob/main/src/images/Screenshot%20from%202022-10-07%2013-35-37.png)
+
+### Video showing a recap of how the application works
+Here is the video recap : <a>https://github.com/Sammy048/Muziki-Player/blob/main/src/images/Screencast%20from%2007-10-2022%20%201:19:42%20WB.webm</a>
+
 
 ### `npm start`
 
