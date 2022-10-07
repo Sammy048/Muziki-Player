@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td>
-  Muziki Player is a Music application that ensure users get entertained through provision of quality and wide variety of music playlist just for you.
+  Muziki Player is a Music application that ensure users get entertained through provision of quality and wide variety of music playlist for the user to listen to.
 </td>
 </tr>
 </table>
