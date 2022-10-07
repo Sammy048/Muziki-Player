@@ -3,6 +3,7 @@ circle {
     transform: rotate(93deg);
     transform-origin: 50% 50%;
     margin-top: 50px;
+    
 }
 
 image.active {
